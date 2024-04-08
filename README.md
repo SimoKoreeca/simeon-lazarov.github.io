@@ -28,8 +28,8 @@ Milcho Petrov 2023- Plovdiv: 1st
 - Reinhold Glière
 - Andrey Stoianov
 - Veselin Stoianov
-Parshakev Hajiev
-Hermann Berens
-Carl Czerny
-Jean-Baptiste Duvernoy
-Henry Lemoine
+- Parshakev Hajiev
+- Hermann Berens
+- Carl Czerny
+- Jean-Baptiste Duvernoy
+- Henry Lemoine
