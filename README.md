@@ -10,8 +10,8 @@ Piano
 over 4 years
 
 ### Contests
-Milcho Petrov 2022- Plovdiv: 2st
-Milcho Petrov 2023- Plovdiv: 1st
+- Milcho Petrov 2022- Plovdiv: 2st
+- Milcho Petrov 2023- Plovdiv: 1st
 
 
 ### Played compousers
